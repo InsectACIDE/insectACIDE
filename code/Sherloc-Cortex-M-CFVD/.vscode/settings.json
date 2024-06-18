@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sherloc_s.h": "c",
+        "stdio.h": "c",
+        "beebs.h": "c"
+    }
+}

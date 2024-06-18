@@ -1,0 +1,10 @@
+pyelftools
+capstone
+angr
+pathlib
+bitarray
+pyserial
+numpy
+pandas
+scipy
+tabulate

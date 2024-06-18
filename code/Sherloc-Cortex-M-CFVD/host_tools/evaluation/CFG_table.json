@@ -1,0 +1,18 @@
+{
+    "0": {
+        "type": "icall",
+        "src_name": "io_configure",
+        "dst_name": "io_config2",
+        "ins": "blx r0",
+        "src_addr": "0xbc",
+        "dst_addr": "0x206e15"
+    },
+    "1": {
+        "type": "icall",
+        "src_name": "io_configure",
+        "dst_name": "io_config1",
+        "ins": "blx r0",
+        "src_addr": "0xae",
+        "dst_addr": "0x206e05"
+    }
+}

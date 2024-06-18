@@ -1,0 +1,1 @@
+{"0": {"type": "icall", "src_name": "io_configure", "dst_name": "io_config2", "ins": "blx r0", "src_addr": "0x3a4", "dst_addr": "0x206dd9"}, "1": {"type": "icall", "src_name": "io_configure", "dst_name": "io_config1", "ins": "blx r0", "src_addr": "0x3b6", "dst_addr": "0x206dc9"}}
